@@ -21,9 +21,3 @@ Alternatively, you can drag and drop the directory where your extension files li
 
 If the extension is valid, it'll be loaded up and active right away! If it's invalid, an error message will be displayed at the top of the page. Correct the error, and try again.
 
-###if you want to use .crx file
-open the file with chrome, that all
-
-
-
-
